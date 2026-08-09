@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-ivkw38.indocuan.online/sitemap.xml
